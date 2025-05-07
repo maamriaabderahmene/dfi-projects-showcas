@@ -67,7 +67,7 @@ export const projects: Project[] = [
     title: "UniHub",
     description:
       "UniHub is a web platform designed to centralize all university-related resources and information for students. It aims to provide a seamless experience for students to access academic materials, connect with peers, and stay updated with university events.",
-    image: "/lovable-uploads/e4155439-882c-4475-8197-99e648905099.png",
+    image: "/lovable-uploads/unihub logo (1).png",
     logo: "/lovable-uploads/f725991b-944c-494f-904b-93a09a395c9c.png",
     tags: ["Web", "Education", "Community"],
     route: "/unihub",
